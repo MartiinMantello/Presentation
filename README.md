@@ -11,8 +11,9 @@ Soy estudiante de **Licenciatura en gestion de tecnologia de la información** e
 - Email: martinmantello44@gmail.com
 - Discord: .martiincho
 
-## Conocimientos
+## Conocimiento
 
 - Python 
 - introduccion de C
 - introduccion de js
+- Ingles nivel 1
